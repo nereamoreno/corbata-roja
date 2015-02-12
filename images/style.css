@@ -8,7 +8,7 @@ body {
 	margin-bottom: 0px;
 }
 #logo{float:left; background-image:url(tie_logo.gif); width:274px; height:213px;}
-#topheader{float:right; width:526px; height:97px; background-color:#F0F0F0; position:relative}
+#topheader{float:right; width:526px; height:97px; background-color:#e4f6f6; position:relative}
 #toplinks{position:absolute; right:10px; top:10px;}
 #menu{float:right; width:526px; height:32px; background-image:url(bg_menu.gif); background-repeat:repeat-x;}
 #submenu{float:right; width:526px; height:32px; background-image:url(bg_submenu.gif); background-position:top; background-repeat:repeat-x;}
@@ -31,7 +31,7 @@ body {
 	font: 0.7em Tahoma, sans-serif;
 	font-size:36px;
 	font-weight:bold;
-	color:#CC0000;
+	color:#224444;
 }
 .whitetitle {
 	font: 0.7em Tahoma, sans-serif;
@@ -43,7 +43,7 @@ body {
 	font: 0.7em Tahoma, sans-serif;
 	font-size:20px;
 	font-weight:bold;
-	color:#CC0000;
+	color:#224444;
 }
 .smallwhitetext {
 	font: 0.7em Tahoma, sans-serif;
@@ -81,13 +81,13 @@ body {
 	font: 0.7em Tahoma, sans-serif;
 	font-size: 11px;
 	font-weight:bold;
-	color:#CC0000;
+	color:#224444;
 }
 .smallredtext a{
 	font: 0.7em Tahoma, sans-serif;
 	font-size: 11px;
 	font-weight:bold;
-	color:#CC0000;
+	color:#3abfd7;
 	text-decoration:none;
 }
 .smallredtext a:hover{
